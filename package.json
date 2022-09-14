@@ -1,0 +1,13 @@
+{
+  "name": "efficient-strings",
+  "version": "1.0.0",
+  "description": "Most efficient string builder. -Life magazine",
+  "main": "./lib/index.js",
+  "keywords": ["string", "strings", "efficiency"],
+  "author": "finbar",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
