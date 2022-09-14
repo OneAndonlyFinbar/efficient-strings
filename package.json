@@ -1,6 +1,6 @@
 {
   "name": "efficient-strings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Most efficient string builder. -Life magazine",
   "main": "./lib/index.js",
   "keywords": [
